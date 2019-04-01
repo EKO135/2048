@@ -1,5 +1,5 @@
 # 2048
-Program that beats 2048 (no AI)
+Program that beats 2048 on windows 10 (no AI)
 
 
 This is limited time only, 
